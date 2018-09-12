@@ -1,4 +1,7 @@
 {
+    "New": "New",
+    "Choose Region": "Set your Event Region",
+    "Choose Region Description": "You can change this later in Settings",
     "Events": "Events",
     "Active Events": "Active Events",
     "Upcoming Events": "Upcoming Events",
@@ -7,6 +10,9 @@
     "Nest Migration": "Nest Migration",
     "Community Day": "Community Day",
     "Day": "Day",
+    "Ends In": "Ends In",
+    "Starts In": "Starts In",
+    "Loading Time": "Loading Time...",
     "Checklists": "Checklists",
     "Master Checklist": "Master Checklist",
     "Shinies": "Shinies",
