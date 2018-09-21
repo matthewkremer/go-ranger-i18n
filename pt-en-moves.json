@@ -1,4 +1,5 @@
 {
+  "This Language": "Português com Ataques Ingles",
   "Events": "Eventos",
   "Active Events": "Eventos Ativos",
   "Upcoming Events": "Eventos Futuros",
@@ -862,5 +863,9 @@
   "Checklist Patreon": "Desbloqueia Cópia de Segurança na Núvem e Suporte para Múltiplos Dispositivos por $3/mês!",
   "Ends In": "Acaba Em",
   "Starts In": "Começa Em",
-  "Loading Time": "Tempo de Espera..."
+  "Loading Time": "Tempo de Espera...",
+  "Attack Deoxys": "Attack Deoxys",
+  "Defense Deoxys": "Defense Deoxys",
+  "Normal Deoxys": "Normal Deoxys",
+  "Speed Deoxys": "Speed Deoxys"
 }

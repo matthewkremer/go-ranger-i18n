@@ -1,4 +1,6 @@
 {
+  "Language": "Language",
+  "This Language": "English",
   "New": "New",
   "Choose Region": "Set your Event Region",
   "Choose Region Description": "You can change this later in Settings",
@@ -862,5 +864,9 @@
   "Party Hat Pichu": "Party Hat Pichu",
   "Ash Hat Pichu": "Ash Hat Pichu",
   "Witch Hat Pichu": "Witch Hat Pichu",
-  "Summer Hat Pichu": "Summer Hat Pichu"
+  "Summer Hat Pichu": "Summer Hat Pichu",
+  "Attack Deoxys": "Attack Deoxys",
+  "Defense Deoxys": "Defense Deoxys",
+  "Normal Deoxys": "Normal Deoxys",
+  "Speed Deoxys": "Speed Deoxys"
 }

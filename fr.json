@@ -1,4 +1,5 @@
 {
+  "This Language": "Français",
   "Events": "Événements",
   "Active Events": "Événements en cours",
   "Upcoming Events": "Événements à venir",
@@ -867,5 +868,9 @@
   "Checklist Patreon": "Unlock Cloud Backup & Multi-Device Support at $3/month!",
   "Ends In": "Ends In",
   "Starts In": "Starts In",
-  "Loading Time": "Loading Time..."
+  "Loading Time": "Loading Time...",
+  "Attack Deoxys": "Attack Deoxys",
+  "Defense Deoxys": "Defense Deoxys",
+  "Normal Deoxys": "Normal Deoxys",
+  "Speed Deoxys": "Speed Deoxys"
 }
