@@ -1,4 +1,5 @@
 {
+  "This Language": "Slovenský",
   "New": "Nové",
   "Choose Region": "Nastavte si svoj región",
   "Choose Region Description": "Môžete si to neskôr zmeniť v Nastaveniach",
@@ -862,5 +863,9 @@
   "Ash Hat Pichu": "Pichu Ashovou čiapkou",
   "Witch Hat Pichu": "Pichu s čarodejníckou čiapkou",
   "Summer Hat Pichu": "Pichus letnou čiapkou",
-  "Checklist Patreon": "Odomknúť zálohovanie na Cloud a podporu pre viac zariadení za $3/mesačne!"
+  "Checklist Patreon": "Odomknúť zálohovanie na Cloud a podporu pre viac zariadení za $3/mesačne!",
+  "Attack Deoxys": "Attack Deoxys",
+  "Defense Deoxys": "Defense Deoxys",
+  "Normal Deoxys": "Normal Deoxys",
+  "Speed Deoxys": "Speed Deoxys"
 }
