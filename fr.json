@@ -444,7 +444,7 @@
   "Slowbro": "Flagadoss",
   "Magnemite": "Magnéti",
   "Magneton": "Magnéton",
-  "Farfetch'd": "Canarticho",
+  "Farfetch'd": "Farfetch'd",
   "Doduo": "Doduo",
   "Dodrio": "Dodrio",
   "Seel": "Otaria",
@@ -487,7 +487,7 @@
   "Seaking": "Poissoroy",
   "Staryu": "Stari",
   "Starmie": "Staross",
-  "Mr Mime": "M. Mime",
+  "Mr Mime": "Mr Mime",
   "Scyther": "Insécateur",
   "Jynx": "Lippoutou",
   "Electabuzz": "Élektek",
@@ -816,5 +816,6 @@
   "Attack Deoxys": "Deoxys Forme Attaque",
   "Defense Deoxys": "Deoxys Forme Défense",
   "Normal Deoxys": "Deoxys Forme Normale",
-  "Speed Deoxys": "Deoxys Forme Vitesse"
+  "Speed Deoxys": "Deoxys Forme Vitesse",
+  "Language": "Language"
 }
