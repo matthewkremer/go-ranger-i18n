@@ -1,6 +1,6 @@
 {
   "Language": "Idioma",
-  "This Language": "Português (com Ataques em Inglês)",
+  "This Language": "Português (com Jogo em Inglês)",
   "Events": "Eventos",
   "New": "Novidades",
   "Choose Region": "Selecciona a tua Região de Evento",
@@ -844,5 +844,7 @@
   "Catch 5 Pokemon": "Catch 5 Pokemon",
   "Catch 5 Water-Type Pokemon": "Catch 5 Water-Type Pokemon",
   "Trade a Pokemon": "Trade a Pokemon",
-  "Earn a Candy with your Buddy": "Earn a Candy with your Buddy"
+  "Earn a Candy with your Buddy": "Earn a Candy with your Buddy",
+  "Make 2 Nice Curveball Throws in a Row": "Make 2 Nice Curveball Throws in a Row",
+  "Recommended Moves": "Recommended Moves"
 }
