@@ -848,5 +848,22 @@
   "Trade a Pokemon": "Effettua uno scambio di Pokémon",
   "Earn a Candy with your Buddy": "Ottieni una caramella camminando con il tuo compagno",
   "Make 2 Nice Curveball Throws in a Row": "Lancia 2 palle curve di fila con un bel risultato",
-  "Recommended Moves": "Mosse Consigliate"
+  "Recommended Moves": "Mosse Consigliate",
+  "Password": "Password",
+  "Reset Password": "Reset Password",
+  "Logged in as": "Logged in as",
+  "Backup your Checklists": "Backup your Checklists?",
+  "Backup Checklists Detail": "It looks like your local checklists have not been backed up. Would you like to back them up?",
+  "Yes": "Yes",
+  "No": "No",
+  "Checklists are Different": "Checklists are Different",
+  "Checklists Different Detail": "Which Checklists would you like to keep? The other Checklists will be deleted.",
+  "Backup": "Backup",
+  "Local": "Local",
+  "Keep Local": "Keep Local",
+  "Keep Backup": "Keep Backup",
+  "Keeping Local Checklists": "Keeping Local Checklists",
+  "Keep Local Detail": "Are you sure you'd like to backup your Local Checklists? Your existing backup will be deleted.",
+  "Keeping Backup Checklists": "Keeping Backup Checklists",
+  "Keep Backup Detail": "Are you sure you'd like to use your Backup Checklists? Your local checklists will be deleted."
 }
