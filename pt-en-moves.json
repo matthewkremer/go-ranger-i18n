@@ -57,13 +57,13 @@
   "Edit Checklist": "Editar Lista",
   "Delete Checklist": "Eliminar Lista",
   "Field Guide": "Guia",
-  "Raids": "Invasão",
+  "Raids": "Assaltos",
   "Research": "Pesquisa",
   "Eggs": "Ovos",
   "Current": "Agora",
   "Upcoming": "Em breve",
   "Past": "Passado",
-  "Raid Guide": "Guia de Invasões",
+  "Raid Guide": "Guia de Assaltos",
   "Weak Against": "Fraco Contra",
   "Boosted In": "Impulsionado em",
   "CP": "CP",
@@ -868,6 +868,6 @@
   "Fragment Hat Raichu": "Raichu com Chapéu Fragment",
   "Catch 5 Drowzee or Abra": "Catch 5 Drowzee or Abra",
   "Evolve 3 Slowpoke or Exeggcute": "Evolve 3 Slowpoke or Exeggcute",
-  "%POKEMON% Raids": "%POKEMON% Raids",
-  "Be on the Lookout for": "Be on the Lookout for..."
+  "%POKEMON% Raids": "Assaltos de %POKEMON%",
+  "Be on the Lookout for": "Esteja à espreita de..."
 }
