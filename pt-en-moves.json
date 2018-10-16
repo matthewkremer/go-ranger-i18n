@@ -87,7 +87,7 @@
   "TYPE_FAIRY": "Fada",
   "TYPE_FIGHTING": "Luta",
   "TYPE_FIRE": "Fogo",
-  "TYPE_FLYING": "Voador",
+  "TYPE_FLYING": "Vôo",
   "TYPE_GHOST": "Fantasma",
   "TYPE_GRASS": "Erva",
   "TYPE_GROUND": "Terra",
@@ -871,5 +871,5 @@
   "%POKEMON% Raids": "Assaltos de %POKEMON%",
   "Be on the Lookout for": "Esteja à espreita de...",
   "METEOR_MASH": "Meteor Mash",
-  "Nest Migration & Spawn Changes": "Nest Migration & Spawn Changes"
+  "Nest Migration & Spawn Changes": "Migração de Ninhos e Mudanças nos Aparecimentos"
 }
