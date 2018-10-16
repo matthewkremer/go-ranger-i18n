@@ -106,7 +106,7 @@
   "Thanks": "Danke für das Herunterladen der GO Ranger App! Lasst mich auf Twitter wissen, ob ihr zusätzliche Inhalte möchtet oder ob ihr irgendwelche Bugs entdeckt habt:",
   "on Twitter": "auf Twitter",
   "Version": "Version",
-  "Disclaimer": "Haftungsausschluss: Dies ist eine inoffizielle App. Wir übernehmen keine Verantwortung und bieten keine Garantien oder Gewährleistungen bezüglich der Genauigkeit, Zuverlässigkeit, Vollständigkeit oder Aktualität der Inhalte. Pokemon GO und alle zugehörigen Bilder sind eingetragene Marken oder Marken von Nintendo, The Pokemon Company, und Niantic.",
+  "Disclaimer": "Haftungsausschluss: Dies ist eine inoffizielle App. Wir übernehmen keine Verantwortung und bieten keine Garantien oder Gewährleistungen bezüglich der Genauigkeit, Zuverlässigkeit, Vollständigkeit oder Aktualität der Inhalte. Pokemon GO und alle zugehörigen Bilder sind eingetragene Marken oder Marken von Nintendo, The Pokemon Company, und Nia",
   "Updates": "Updates",
   "Donate on Patreon": "Spende auf Patreon",
   "Nest": "Nest",
@@ -864,10 +864,12 @@
   "Keep Local Detail": "Bist du sicher, dass du deine lokalen Checklisten sichern willst? Deine bestehende Sicherung wird gelöscht.",
   "Keeping Backup Checklists": "Gesicherte Checklisten behalten",
   "Keep Backup Detail": "Bist du sicher, dass du deine gesicherten Checklisten benutzten willst? Deine lokelen Checklisten werden gelöscht.",
-  "Fragment Hat Pikachu": "Fragment Hat Pikachu",
-  "Fragment Hat Raichu": "Fragment Hat Raichu",
-  "Catch 5 Drowzee or Abra": "Catch 5 Drowzee or Abra",
-  "Evolve 3 Slowpoke or Exeggcute": "Evolve 3 Slowpoke or Exeggcute",
+  "Fragment Hat Pikachu": "Fragmenthut Pikachu",
+  "Fragment Hat Raichu": "Fragmenthut Raichu",
+  "Catch 5 Drowzee or Abra": "Fange 5 Traumato oder Abra.",
+  "Evolve 3 Slowpoke or Exeggcute": "Entwickle 3 Flegmon oder Owei.",
   "%POKEMON% Raids": "%POKEMON% Raids",
-  "Be on the Lookout for": "Be on the Lookout for..."
+  "Be on the Lookout for": "Halte Ausschau nach...",
+  "METEOR_MASH": "Meteor Mash",
+  "Nest Migration & Spawn Changes": "Nest Migration & Spawn Changes"
 }

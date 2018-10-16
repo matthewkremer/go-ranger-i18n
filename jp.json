@@ -846,13 +846,13 @@
   "Earn a Candy with your Buddy": "相棒と歩いて1個アメをもらう",
   "Recommended Moves": "オススメの技",
   "Make 2 Nice Curveball Throws in a Row": "カーブボールのナイススローを5回連続で投げる",
-  "Password": "Password",
-  "Reset Password": "Reset Password",
+  "Password": "パスワード",
+  "Reset Password": "パスワードの変更パスワードの変更",
   "Logged in as": "Logged in as",
   "Backup your Checklists": "Backup your Checklists?",
   "Backup Checklists Detail": "It looks like your local checklists have not been backed up. Would you like to back them up?",
-  "Yes": "Yes",
-  "No": "No",
+  "Yes": "はい",
+  "No": "いいえ",
   "Checklists are Different": "Checklists are Different",
   "Checklists Different Detail": "Which Checklists would you like to keep? The other Checklists will be deleted.",
   "Backup": "Backup",
@@ -866,5 +866,7 @@
   "Fragment Hat Pikachu": "Fragment Hat Pikachu",
   "Fragment Hat Raichu": "Fragment Hat Raichu",
   "Catch 5 Drowzee or Abra": "Catch 5 Drowzee or Abra",
-  "Evolve 3 Slowpoke or Exeggcute": "Evolve 3 Slowpoke or Exeggcute"
+  "Evolve 3 Slowpoke or Exeggcute": "Evolve 3 Slowpoke or Exeggcute",
+  "%POKEMON% Raids": "%POKEMON%のレイド",
+  "Be on the Lookout for": "Be on the Lookout for..."
 }
